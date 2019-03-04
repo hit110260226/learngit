@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 change
 222
 333
+work space.
