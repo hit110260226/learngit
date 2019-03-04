@@ -1,2 +1,2 @@
-git is learning!
+git is learning WA!
 hahhaah GPL.
