@@ -1,2 +1,2 @@
 git is learning!
-hahhaah.
+hahhaah GPL.
